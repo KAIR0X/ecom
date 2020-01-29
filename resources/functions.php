@@ -596,7 +596,7 @@ function get_slides(){
 }
 
 function get_slide_thumbanails(){
-//will edit this later
+return 0;
 }
 
 ?>
